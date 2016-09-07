@@ -14,7 +14,7 @@ PRODUCT_BOOT_JARS += telephony-ext
 
 # TCMiface
 PRODUCT_PACKAGES += tcmiface
-PRODUCT_BOOT_JARS += tcmiface
+#PRODUCT_BOOT_JARS += tcmiface
 
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
